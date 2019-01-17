@@ -1,0 +1,11 @@
+tankSoldier1 tank
+tankSoldier2 tank
+tankSoldier3 tank
+turret
+tank turret
+tank handgun
+turret bombs
+handgun bullets
+handgun bombs
+bombs ore
+bullets ore

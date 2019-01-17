@@ -1,0 +1,7 @@
+pistol bullets
+bullets lead gunpowder
+gunpowder sulfer
+bombs gunpowder
+turrets bullets bombs
+lead
+sulfer
