@@ -30,6 +30,10 @@ The user has the option to input various commands:
 	7.) /clear			  - Will erase the entire tree
 	8.) '/h' or '/help'		  - Will display all commands and a brief description
 	
+## Sample Window
+
+![Image](https://user-images.githubusercontent.com/42820224/52361910-f62eaa80-2a04-11e9-93eb-8734c03e7e51.PNG)
+	
 ## File Structure
 	
 	README.md				- README
