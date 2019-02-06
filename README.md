@@ -2,7 +2,9 @@
 
 Author: Spencer McKean
 
-Code last modified on 12/6/18 
+Code last modified on 12/6/18
+
+GitHub Link: https://github.com/s-mckean/ResourceManager
 
 ## Description
 
